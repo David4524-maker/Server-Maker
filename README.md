@@ -32,6 +32,6 @@
 | Python | 3.8 | 3.14 |
 | Tkinter | Incluido con Python | Igual |
 | Dependencias externas | Ningun pip install | Ninguna |
-| Fuentes | Segoe UI (viene en Windows) y Segoe UI Emoji | Igual en Windows |
+| Fuentes | Segoe UI (viene en Windows) y Segoe UI Emoji | Igual de Windows |
  
  Hecho en Python 3.14
