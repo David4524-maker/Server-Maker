@@ -4,19 +4,19 @@
 
 ## Caracteristicas
 
--Interfaz minimalista y AERO
+- Interfaz minimalista y AERO
 
--Idiomas Español, Ingles y Portugues
+- Idiomas Español, Ingles y Portugues
 
--URL del servidor
+- URL del servidor
 
--Nombre del Server
+- Nombre del Server
 
 - Interfaz Claro/Oscuro
 
--Carpeta a compartir
+- Carpeta a compartir
 
--HOST y PUERTO del Server
+- HOST y PUERTO del Server
 
 > AVISO IMPORTANTE: La URL del servidor solo es una URL que no trae nada, por lo que si intentas entrar a la URL de tu servidor va a dar error
 
